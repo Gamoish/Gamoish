@@ -1,5 +1,25 @@
-<h1 align="center">Hi 👋, I'm Ayush kumar</h1>
-<h3 align="center">A passionate frontend deHi, I'm Ayush Kumar, a 2nd-year Computer Science Engineering student at NMIT, Bangalore. I'm passionate about coding and programming, with a strong interest in Python, Artificial Intelligence & Machine Learning, and Game Development. Alongside my studies, I also work as a Content Manager, helping creators manage and grow their digital presence. I'm always eager to explore new technologies, build cool projects, and contribute to the tech community.veloper from India</h3>
+<h1 align="left">Hi 👋, I'm Ayush kumar</h1>
+<h2 align="left">A passionate frontend deHi, I'm Ayush Kumar, a 2nd-year Computer Science Engineering student at NMIT, Bangalore. I'm passionate about coding and programming, with a strong interest in Python, Artificial Intelligence & Machine Learning, and Game Development. Alongside my studies, I also work as a Content Manager, helping creators manage and grow their digital presence. I'm always eager to explore new technologies, build cool projects, and contribute to the tech community.veloper from India</h2>
+
+---
+
+🔆 About Me
+
+- 🎓 B.E. in CSE (2nd Year) at **NMIT Bangalore**
+- 💡 Passionate about building projects with **Python**, **AI/ML**, and **Game Development**
+- 🧠 Exploring machine learning models, game mechanics, and creative problem-solving
+- 🧰 Always learning: currently diving into **neural networks**, **DSA**, and **game engines**
+- 🧩 Ask me about content creation, tech trends, or collaborative project ideas
+- ☕ Fun fact: I manage content for creators — blending strategy with creativity is my jam!
+
+---
+
+[![Gmail](https://img.shields.io/badge/Gmail-9ayushkr@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:9ayushkr@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush--Kumar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayush-kumar-8634b4270/)
+[![X](https://img.shields.io/badge/X-9ayushkr-black?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/9ayushkr)
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gamoish&label=Profile%20views&color=0e75b6&style=flat" alt="gamoish" /> </p>
 
