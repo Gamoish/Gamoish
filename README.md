@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Ayush kumar</h1>
+<h1 align="left">Hi, I'm Ayush kumar</h1>
 <h4 align="left">Hi, I'm Ayush Kumar — a 2nd-year Computer Science Engineering student at NMIT, Bangalore. I'm an aspiring developer and tech enthusiast from India, with a strong interest in Python, Artificial Intelligence & Machine Learning, and Game Development.
 
 Alongside my studies, I work as a Content Manager, helping creators grow their digital presence through content and strategy. I'm always eager to explore new technologies, build exciting projects, and be an active part of the tech community.
