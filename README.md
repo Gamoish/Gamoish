@@ -1,4 +1,4 @@
-# 🌟 Ayush Kumar
+# Ayush Kumar
 
 **Hey there! I’m Ayush — a 2nd-year Computer Science Engineering student at NMIT, Bangalore.**
 
@@ -16,10 +16,7 @@ Tech + Creativity is where I feel at home.
 
 - 🎓 **B.E. in Computer Science Engineering** (2nd Year @ NMIT Bangalore)  
 - 🧠 Learning & building with **Python, Machine Learning, and Game Development**  
-- 🚀 Exploring neural networks, game logic, and creative problem-solving  
-- 💼 Managing content for creators at **Clipcraft**  
-- 📚 Currently studying: **Neural Networks, DSA, Game Engines**  
-- 🤝 Open to collaborations, tech projects, and cool ideas  
+- 🚀 Exploring neural networks, game logic, and creative problem-solving    
 - 🎮 Hobbies: **Gaming, anime, gym, and building things**
 
 ---
@@ -27,21 +24,14 @@ Tech + Creativity is where I feel at home.
 ## 🧰 Technologies & Tools
 
 ### **Languages**
-- Python  
-- C  
-- C++  
-- HTML5  
+- Python  - C++  
+- HTML5   - C  
 
 ### **Tools & Software**
-- Blender  
-- Figma  
-- Adobe Photoshop  
-- Adobe Illustrator  
-- Framer  
-- MATLAB  
-- Git  
-- Linux  
-- Arduino  
+- Blende       - Framer  
+- MATLAB       - Arduino 
+- Figma        - Git
+- Linux        - Adobe creatives 
 
 ---
 
