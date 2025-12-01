@@ -24,14 +24,16 @@ Tech + Creativity is where I feel at home.
 ## 🧰 Technologies & Tools
 
 ### **Languages**
-- Python  - C++  
-- HTML5   - C  
+| Python | C++ |
+|--------|-----|
+| HTML5  | C   |
 
 ### **Tools & Software**
-- Blende       - Framer  
-- MATLAB       - Arduino 
-- Figma        - Git
-- Linux        - Adobe creatives 
+| Blender | Framer |
+|---------|--------|
+| MATLAB  | Arduino |
+| Figma   | Git     |
+| Linux   | Adobe Creative Suite |
 
 ---
 
