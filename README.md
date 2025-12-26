@@ -44,12 +44,3 @@ Tech + Creativity is where I feel at home.
 
 ---
 
-## ✨ Fun Fact
-
-I love blending tech with creativity — one moment I’m writing code, the next I’m crafting content strategies for creators.  
-It keeps me curious, experimental, and always building something new.
-
----
-
-### 🚀 “Always building. Always learning.”
-
