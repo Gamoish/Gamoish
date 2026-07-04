@@ -1,6 +1,6 @@
 # Ayush Kumar
 
-**Hey there! I’m Ayush — a 2nd-year Computer Science Engineering student at NMIT, Bangalore.**
+**Hey there! I’m Ayush — a 3rd-year Computer Science Engineering student at NMIT, Bangalore.**
 
 I love building things that start as ideas and grow into complete projects.  
 Whether it’s Python tools, game prototypes, AI experiments, or content systems — if something sparks my curiosity, I’ll build it.
