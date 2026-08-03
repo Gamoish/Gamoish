@@ -74,8 +74,6 @@ Right now I'm working on a hospital referral/management platform, a live turf-bo
 </a>
 </p>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=gamoish&theme=tokyonight&no-frame=true&margin-w=15)
-
 ---
 
 ### 🌱 Currently Learning
