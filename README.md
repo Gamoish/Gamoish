@@ -1,8 +1,8 @@
 ## Hi there! ಠ_ಠ
-I'm [Ayush](https://x.com/9ayushkr), a full-stack developer and community builder [![Portfolio](https://img.shields.io/badge/View_Portfolio-1C1C1C?style=flat&logo=codementor&logoColor=white)](https://ayushkr.online/)
+I'm [Ayush](https://x.com/9ayushkr), a full-stack developer and builder based in Bangalore [![Portfolio](https://img.shields.io/badge/View_Portfolio-1C1C1C?style=flat&logo=codementor&logoColor=white)](https://ayushkr.online/)
 
-I love turning ideas into products.  
-I build consumer apps, developer tools, web3 infra, and occasionally tinker with hardware projects.
+I love turning ideas into products — from web apps and developer tools to experiments with AI, automation, and hardware.
+I enjoy building things from the ground up, solving problems that interest me, and occasionally breaking things just to understand how they work.
 
 ## Recently built
 - [kuku's Bakery](https://kuku-sbakery.vercel.app/) - Website for Kuku's Bakey a local bakery
