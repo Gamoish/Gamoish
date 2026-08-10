@@ -1,5 +1,4 @@
-## Hi there! ᕕ( ᐛ )ᕗ
-
+## Hi there! ಠ_ಠ
 I'm [Ayush](https://x.com/9ayushkr), a full-stack developer and community builder [![Portfolio](https://img.shields.io/badge/View_Portfolio-1C1C1C?style=flat&logo=codementor&logoColor=white)](https://ayushkr.online/)
 
 I love turning ideas into products.  
