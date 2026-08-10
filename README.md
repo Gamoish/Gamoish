@@ -21,7 +21,6 @@ I build consumer apps, developer tools, web3 infra, and occasionally tinker with
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1C1C1C?style=flat&logo=typescript&logoColor=3178C6)
 
 
@@ -29,7 +28,6 @@ I build consumer apps, developer tools, web3 infra, and occasionally tinker with
 ![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-1C1C1C?style=flat&logo=nodedotjs&logoColor=339933)
 ![NestJS](https://img.shields.io/badge/NestJS-1C1C1C?style=flat&logo=nestjs&logoColor=E0234E)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-1C1C1C?style=flat&logo=mongodb&logoColor=47A248)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1C1C1C?style=flat&logo=postgresql&logoColor=4169E1)
 ![Firebase](https://img.shields.io/badge/Firebase-1C1C1C?style=flat&logo=firebase&logoColor=DD2C00)
