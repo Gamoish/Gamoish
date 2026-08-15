@@ -1,62 +1,59 @@
-## Hi there! ಠ_ಠ
-I'm [Ayush](https://x.com/9ayushkr), a full-stack developer and builder based in Bangalore [![Portfolio](https://img.shields.io/badge/View_Portfolio-1C1C1C?style=flat&logo=codementor&logoColor=white)](https://ayushkr.online/)
+# gamoish
 
-I love turning ideas into products — from web apps and developer tools to experiments with AI, automation, and hardware.
-I enjoy building things from the ground up, solving problems that interest me, and occasionally breaking things just to understand how they work.
+> Memorable developer positioning.
 
-## Recently built
-- [kuku's Bakery](https://kuku-sbakery.vercel.app/) - Website for Kuku's Bakey a local bakery
-- [Files-conv](https://files-conv.vercel.app/) - convert files locally in your browser without uploading them to the cloud.
-- [Portfolio-website](https://ayushkr.online/) - Portfolio website for me and a template for use.
-- [Stock tracker](https://github.com/Gamoish/Stock-tracker) - A python based stock tracker using libraries.
-- [Pomodoro](https://github.com/Gamoish/Pomodoro-timer) - A pomodoro timer based on basic html.
-- [Ai chat Discord bot](https://github.com/Gamoish/AI-Chatbot) - A discord bot uses to recognise and give prompts to appropriate chatbot api
-- [Ongc intranet](https://github.com/Gamoish/ongcv1) - A Intranet website made for Ongc in Internship.
+**Theme:** GitHub · **Style:** Creative · **Agent:** Full-Stack Engineer
 
-<div align="center">
+## Header
+> Editing this section in the inspector.
+Hi, I'm **gamoish**. This README is tuned for **personal brand** with a GitHub visual system.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=gamoish&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=gamoish&theme=github-dark" alt="gamoish hero section" />
+  </picture>
+</p>
+## About Me
+Shapes the short profile story and positioning.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=gamoish&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=gamoish&theme=github-dark" alt="gamoish about section" />
+  </picture>
+</p>
+## Skills
+Selected stack and skill badges will be generated from the GitHub profile and README strategy.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=gamoish&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=gamoish&theme=github-dark" alt="gamoish stack section" />
+  </picture>
+</p>
+## GitHub Stats
+GitSkins stat widgets will use the **GitHub** theme.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=gamoish&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=gamoish&theme=github-dark" alt="gamoish stats section" />
+  </picture>
+</p>
+## Projects
+Highlights repositories as proof of work.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=gamoish&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=gamoish&theme=github-dark" alt="gamoish projects section" />
+  </picture>
+</p>
+## Heatmap
+Animated year-long contribution calendar.
+## Connect
+Contact and social links will appear here.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=gamoish&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=gamoish&theme=github-dark" alt="gamoish social section" />
+  </picture>
+</p>
 
-## Skills & Interests
-
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-1C1C1C?style=flat&logo=typescript&logoColor=3178C6)
-
-
-**Backend**  
-![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-1C1C1C?style=flat&logo=nodedotjs&logoColor=339933)
-![NestJS](https://img.shields.io/badge/NestJS-1C1C1C?style=flat&logo=nestjs&logoColor=E0234E)
-![MongoDB](https://img.shields.io/badge/MongoDB-1C1C1C?style=flat&logo=mongodb&logoColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1C1C1C?style=flat&logo=postgresql&logoColor=4169E1)
-![Firebase](https://img.shields.io/badge/Firebase-1C1C1C?style=flat&logo=firebase&logoColor=DD2C00)
-![Supabase](https://img.shields.io/badge/Supabase-1C1C1C?style=flat&logo=supabase&logoColor=3FCF8E)
-
-**Tools**  
-![Docker](https://img.shields.io/badge/Docker-1C1C1C?style=flat&logo=docker&logoColor=2496ED)
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-1C1C1C?style=flat&logo=googleanalytics&logoColor=E37400)
-![PostHog](https://img.shields.io/badge/PostHog-1C1C1C?style=flat&logo=posthog&logoColor=F9BD2B)
-![Linux](https://img.shields.io/badge/Linux-1C1C1C?style=flat&logo=linux&logoColor=FCC624)
-![Git](https://img.shields.io/badge/Git-1C1C1C?style=flat&logo=git&logoColor=F05032)
-
-**Hardware**  
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white)
-
----
-
-Find me on
-
-[![X](https://img.shields.io/badge/Twitter-white?style=flat&logo=x&logoColor=black)](https://x.com/9ayushkr_) 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@gamoish) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-kumar-8634b4270/) 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/users/gamoish) 
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/Ayukun_gamoish/) 
-
-</div>
-
-<div align="right">
-    
-![Profile Views](https://komarev.com/ghpvc/?username=gamoish&style=flat&color=1C1C1C)
-
-</div>
+<!-- Sections: Header, About Me, Skills, GitHub Stats, Projects, Heatmap, Connect -->
